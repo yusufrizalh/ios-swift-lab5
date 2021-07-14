@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>George Lescott</string>
+		<key>company</key>
+		<string>Accenture</string>
+		<key>phone</key>
+		<string>+6281651287338</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Miranda Kerr</string>
+		<key>company</key>
+		<string>Nokia Ltd.</string>
+		<key>phone</key>
+		<string>+6285117239855</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Diana Blair</string>
+		<key>company</key>
+		<string>Huawei Corp.</string>
+		<key>phone</key>
+		<string>+6285776412005</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Francis Stewart</string>
+		<key>company</key>
+		<string>CT Corp.</string>
+		<key>phone</key>
+		<string>+6281763309554</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Andrew Johanson</string>
+		<key>company</key>
+		<string>Viva Com.</string>
+		<key>phone</key>
+		<string>+6285755128580</string>
+	</dict>
+</array>
+</plist>
